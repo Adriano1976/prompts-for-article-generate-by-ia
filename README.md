@@ -2,14 +2,15 @@
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover minha autoridade e conhecimento técnica.
 
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src="./assets/banner.png">
 </p>
 
 
 <p align="center">
   <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
   </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
+  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage">
+      <img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
   </a>
 </p>
 
@@ -17,7 +18,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src="./assets/preview.png"
     width="400"  
   />
 </p>
