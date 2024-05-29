@@ -27,7 +27,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno técnico na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno técnico na plataforma da [DIO](https://dio.me), pelo qual aprendi diversos prompts e práticas de programação que foram fundamentais para o meu desenvolvimento profissional. Estou muito satisfeito com o que aprendi e ansioso para continuar crescendo na minha carreira de tecnologia.
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
@@ -49,7 +49,7 @@ ChatGPT：
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Python - Pandas    |                                                                                                                                                                                               
 | conteúdo | Comporte-se como um escritor de artigos Tech Data Analytics e escreva o Artigo atendendo as regras abaixo.  |
 
-{REGRAS}
+ {REGRAS}
 > Tenha sub títulos separados por blocos para cada parte do artigo
 > No máximo 5 linhas por blocos de explicação
 > Explique de maneira informal, como se eu fosse uma criança de 10 anos
@@ -65,6 +65,9 @@ ChatGPT：
 #### Lexica.art e Ideogram：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas e no Ideogram utilizamos para criar outras imagens.
+- No entanto, é importante sempre respeitar os direitos autorais e dar crédito aos criadores originais das imagens que utilizamos em nossos designs.
+- Isso ajuda a promover um ambiente de respeito e colaboração na comunidade criativa.
+- A inspiração pode vir de diversos lugares, mas é essencial reconhecer e valorizar o trabalho de outros artistas.
 
 ## ✨ Features
 
@@ -79,6 +82,8 @@ ChatGPT：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
 
+---
+
 ## 👨‍💻 Expert
 
 <p>
@@ -86,22 +91,27 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="./assets/nerd.png"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspAdriano Santos<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/Adriano1976">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/adrianosantos-dev/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+    <a href="https://www.instagram.com/adrianosantos.git/?theme=dark">Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
 
----
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 🎯 por [Adriano Santos](https://github.com/Adriano1976)
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{prompts-for-article-generate-by-ia}/count.svg" /></p> 
+<br>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+</div>
