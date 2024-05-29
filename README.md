@@ -1,4 +1,5 @@
-# prompts-for-article-generate-by-ia
+# Prompts for Article Generate by IA
+
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover minha autoridade e conhecimento técnica.
 
 <p align="center">
@@ -45,8 +46,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Python - Pandas                                                                                                                                                                                                    |
-| conteúdo | Comporte-se como um escritor de artigos Tech Data Analytics e escreva o Artigo atendendo as regras abaixo.
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Python - Pandas    |                                                                                                                                                                                               
+| conteúdo | Comporte-se como um escritor de artigos Tech Data Analytics e escreva o Artigo atendendo as regras abaixo.  |
 
 {REGRAS}
 > Tenha sub títulos separados por blocos para cada parte do artigo
@@ -61,7 +62,7 @@ ChatGPT：
 - Faça um call to action para as minhas redes sociais
 - Coloque 3 hashtags que façam sentido
 
-Lexica.art e Ideogram：
+#### Lexica.art e Ideogram：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas e no Ideogram utilizamos para criar outras imagens.
 
